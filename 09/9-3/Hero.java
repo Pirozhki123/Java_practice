@@ -4,7 +4,7 @@ public class Hero {
   int hp;
   Sword sword;
   public void attack() {
-    System.out.println(this.name + "は攻撃した！");
+    System.out.println(this.name + "は" + Sowrd.name + "で攻撃した！");
     System.out.println("敵に5ポイントのダメージをあたえた！");
   }
 }
