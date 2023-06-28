@@ -1,3 +1,4 @@
+// 勇者と魔法使いを
 public class Main {
   public static void main(String[] args) {
     Hero h1 = new Hero();
