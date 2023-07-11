@@ -1,0 +1,8 @@
+1. Machine → Phone → iPhone
+2. Machine → Car → Supra
+3.Facility → Dictionary → book
+
+回答
+1. Device,Tool,etc → Phone → MobilePhone,SmartPhone,etc
+2. Vehicle,Property,etc → Car → SportsCar,HybridCar,etc
+3.Book,informationSource,etc → Dictionary → EJDictionary,Encycropedia,etc
